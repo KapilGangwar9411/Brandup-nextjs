@@ -51,6 +51,7 @@ export function BlurFadeDemo() {
                 width="100%"
                 className="h-5/6 w-full object-cover rounded-lg"
                 muted
+                controls
                 autoPlay
                 loop
                 playsInline
